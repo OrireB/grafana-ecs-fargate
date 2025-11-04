@@ -1,5 +1,4 @@
 # grafana-ecs-fargate
-# grafana-ecs-fargate
 # 🧵 Deploying Grafana on Amazon ECS with Fargate  
 *A simple, fashion-themed walkthrough analogy for beginners*
 
