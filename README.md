@@ -136,10 +136,10 @@ That’s the power of **serverless observability** — quick, reliable, and scal
 ##💡 Real-world uses of Grafana
 
 Grafana is used by:
-	- DevOps teams to visualize server metrics (CPU, memory, server uptime)
-	- Data engineers to monitor databases or APIs
-	- Businesses to create dashboards showing KPIs or logs (sales, website traffic, etc.)
-	- Cloud teams to connect with AWS CloudWatch, Prometheus, Loki, etc.
+	 - DevOps teams to visualize server metrics (CPU, memory, server uptime)
+	 - Data engineers to monitor databases or APIs
+	 - Businesses to create dashboards showing KPIs or logs (sales, website traffic, etc.)
+	 - Cloud teams to connect with AWS CloudWatch, Prometheus, Loki, etc.
 It’s part of the standard “observability stack” — used to keep an eye on how systems are performing.
 
 ---
