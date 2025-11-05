@@ -108,6 +108,7 @@ Add the following to your `docs/SCREENSHOTS.md`:
 - Task Definition showing `grafana/grafana`  
 - Security Group allowing TCP 3000  
 - Grafana login page (`http://<PUBLIC-IP>:3000`)
+[**docs/SCREENSHOTS.md**](docs/screenshots)
 
 ---
 
