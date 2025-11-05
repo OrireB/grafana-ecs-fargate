@@ -133,11 +133,24 @@ That’s the power of **serverless observability** — quick, reliable, and scal
 
 ## 📸 Screenshots
 
-Add the following to your `docs/SCREENSHOTS.md`:
-- ECS Cluster & Running Service  
-- Task Definition showing `grafana/grafana`  
-- Security Group allowing TCP 3000  
-- Grafana login page (`http://<PUBLIC-IP>:3000`)
+- ECS Cluster and Service page
+![ECS Cluster](https://raw.githubusercontent.com/OrireB/grafana-ecs-fargate/48d95847d4f7fa29e16c5306ea6ba3435e49d299/docs/screenshots/ECS%20Cluster.png)
+
+---
+
+- Task Definition showing `grafana/grafana` and port `3000`
+![Task Definition](https://raw.githubusercontent.com/OrireB/grafana-ecs-fargate/48d95847d4f7fa29e16c5306ea6ba3435e49d299/docs/screenshots/Task%20Definition.png)
+
+---
+
+- Security Group inbound rule for port `3000`
+![Security Group](https://raw.githubusercontent.com/OrireB/grafana-ecs-fargate/48d95847d4f7fa29e16c5306ea6ba3435e49d299/docs/screenshots/Security%20Groups.png)
+
+---
+
+- Grafana login page in your browser  
+![Grafana Login](https://raw.githubusercontent.com/OrireB/grafana-ecs-fargate/48d95847d4f7fa29e16c5306ea6ba3435e49d299/docs/screenshots/Grafana%20Login.png)
+
 [**docs/SCREENSHOTS.md**](docs/screenshots)
 
 ---
